@@ -1,2 +1,2 @@
 # Netflix_practice
-fasd
+넷플릭스 연습
